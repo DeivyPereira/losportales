@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/losportales/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/losportales/static/js/main.2b0833d6.chunk.js",
+    "main.js.map": "/losportales/static/js/main.2b0833d6.chunk.js.map",
+    "runtime-main.js": "/losportales/static/js/runtime-main.10114d24.js",
+    "runtime-main.js.map": "/losportales/static/js/runtime-main.10114d24.js.map",
+    "static/js/2.5f6c31d1.chunk.js": "/losportales/static/js/2.5f6c31d1.chunk.js",
+    "static/js/2.5f6c31d1.chunk.js.map": "/losportales/static/js/2.5f6c31d1.chunk.js.map",
+    "static/js/3.40037b8e.chunk.js": "/losportales/static/js/3.40037b8e.chunk.js",
+    "static/js/3.40037b8e.chunk.js.map": "/losportales/static/js/3.40037b8e.chunk.js.map",
+    "index.html": "/losportales/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/losportales/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5f6c31d1.chunk.js.LICENSE.txt": "/losportales/static/js/2.5f6c31d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10114d24.js",
+    "static/js/2.5f6c31d1.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2b0833d6.chunk.js"
+  ]
+}
